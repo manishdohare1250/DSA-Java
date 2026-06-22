@@ -2,7 +2,7 @@ package _00__Random_number_generation.By_SecureRandom_class_Best_way;
 
 import java.security.SecureRandom;
 
-public class _n_digit_otp_including_leading_zero {
+public class _01_N_digit_otp_including_leading_zero {
  public static void main(String[] args) {
     
      SecureRandom s= new SecureRandom();
