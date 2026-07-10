@@ -18,6 +18,7 @@ public class _07_combine_2_arraylist_eleemnts_into_a_single_arraylist {
                 .collect(Collectors.toList());
 
         System.out.println("Combined list is:" + combined);
+        System.out.println(combined.stream().findAny().get());
     }
 
 }
