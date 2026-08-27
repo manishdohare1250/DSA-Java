@@ -19,6 +19,6 @@ public class _01_basic_optional_container {
         // }
 
         System.out.println(container.orElse("Mango"));
-      Collections
+      
     }
 }

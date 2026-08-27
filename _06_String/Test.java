@@ -1,4 +1,4 @@
-package _00___Time_and_Date;
+package _06_String;
 
 public class Test {
 

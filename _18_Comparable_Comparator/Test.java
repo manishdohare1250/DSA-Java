@@ -1,4 +1,4 @@
-package _00___Time_and_Date;
+package _18_Comparable_Comparator;
 
 public class Test {
 
